@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   
+  <title>Department</title>
+</head>
+<body>
+  <header>
+    <center>
+      <h1>MCA</h1>
+      <figure>
+        <img src="img/Screenshot 2026-09-11 095531.png" width="200" height="200" >
+         <figcaption>DEPARTMENT OF MCA</figcaption>
+    </figure>
+    </center>
+  </header>
+ <nav>
+  <center> 
+<a href="#student">student</a>
+<a href="#faculty">faculty</a>
+<a href="#subject">subject</a>
+<a href="#achievements">achievements</a>
+</center>
+  </nav>
+ <main>
+<section id="student">
+  <h2>student</h2>
+  <table border="1">
+<tr>
+    <th>Student Name</th>
+    <th>Roll Number</th>
+    <th>Year</th>
+</tr>
+<tr>
+    <td>Varshini T</td>
+    <td>21MCA01</td>
+    <td>1st Year</td>
+</tr>
+    <tr>
+    <td>kani  </td>
+    <td>21MCA02</td>
+    <td>1st Year</td>
+    </tr>
+    <tr>
+    <td>abi</td>
+    <td>21MCA03</td>
+    <td>1st Year</td>
+    </tr>
+  </table>
+    
+
+</section>
+
+    
+    <section id="subject">
+        <h2>subject</h2>
+  
+         <ol>
+            <li>Data Structure</li>
+            <li>Operating System</li>
+            <li>Database Management System</li>
+            <li>Computer Networks</li>
+            <li>Software Engineering</li>
+         </ol>
+    </section>
+
+    <section id="faculty">
+     
+        <h2>Faculty</h2>
+
+        <table border="1">
+            <tr>
+                <th>Faculty Name</th>
+                <th>subject handling</th>
+                
+            </tr>
+            <tr>
+                <td>Dhatchana moorthi</td>
+                <td>Professor</td>
+                
+            <tr>
+                <td>sneha</td>
+                <td>python  </td>
+                
+            </tr>
+            <tr>
+                <td>varsha</td>
+                <td>data science</td>
+                 
+            </tr>
+            </table>
+    </section>
+    </main>
+
+    <section id="achievements">
+<h3>ACHEIVEMENTS</h3>
+<img src="WhatsApp Image 2026-09-11 at 12.08.52 PM.jpeg" width="200" height="200" >
+
+</section>  
+    
+
+ 
+</body>
+</html>
